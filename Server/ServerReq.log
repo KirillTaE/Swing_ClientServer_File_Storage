@@ -1,0 +1,64 @@
+янв. 16, 2023 7:47:10 PM view.Server <clinit>
+INFO: Logger initialized
+янв. 16, 2023 7:47:11 PM view.Server open
+INFO: Server is listening...
+янв. 16, 2023 7:47:27 PM view.Server open
+INFO: Connected with Socket[addr=/127.0.0.1,port=65087,localport=1234]
+янв. 16, 2023 7:47:28 PM view.Server$ServerThread run
+INFO: <3> - (Receive Request) - <Validate Login>
+янв. 16, 2023 7:47:28 PM view.Server open
+INFO: Connected with Socket[addr=/127.0.0.1,port=65090,localport=1234]
+янв. 16, 2023 7:47:28 PM view.Server$ServerThread run
+INFO: <5> - (Receive Request) - <Get All File Path From Server to Client Tree View>
+янв. 16, 2023 7:47:28 PM view.Server open
+INFO: Connected with Socket[addr=/127.0.0.1,port=65093,localport=1234]
+янв. 16, 2023 7:47:28 PM view.Server$ServerThread run
+INFO: <6> - (Receive Request) - <Get User Detail>2
+янв. 16, 2023 7:47:41 PM view.Server open
+INFO: Connected with Socket[addr=/127.0.0.1,port=65101,localport=1234]
+янв. 16, 2023 7:47:41 PM view.Server$ServerThread run
+INFO: <3> - (Receive Request) - <Validate Login>
+янв. 16, 2023 7:47:41 PM view.Server open
+INFO: Connected with Socket[addr=/127.0.0.1,port=65104,localport=1234]
+янв. 16, 2023 7:47:42 PM view.Server$ServerThread run
+INFO: <5> - (Receive Request) - <Get All File Path From Server to Client Tree View>
+янв. 16, 2023 7:47:42 PM view.Server open
+INFO: Connected with Socket[addr=/127.0.0.1,port=65107,localport=1234]
+янв. 16, 2023 7:47:42 PM view.Server$ServerThread run
+INFO: <7> - (Receive Request) - <Admin get All User>
+янв. 16, 2023 7:47:42 PM view.Server open
+INFO: Connected with Socket[addr=/127.0.0.1,port=65110,localport=1234]
+янв. 16, 2023 7:47:42 PM view.Server$ServerThread run
+INFO: <5> - (Receive Request) - <Get All File Path From Server to Client Tree View>
+янв. 16, 2023 7:47:42 PM view.Server open
+INFO: Connected with Socket[addr=/127.0.0.1,port=65113,localport=1234]
+янв. 16, 2023 7:47:42 PM view.Server$ServerThread run
+INFO: <6> - (Receive Request) - <Get User Detail>1
+янв. 16, 2023 7:47:49 PM view.Server open
+INFO: Connected with Socket[addr=/127.0.0.1,port=65117,localport=1234]
+янв. 16, 2023 7:47:49 PM view.Server$ServerThread run
+INFO: <12> - (Receive Request) - <Admin Get All User (Select share)>
+янв. 16, 2023 7:47:52 PM view.Server open
+INFO: Connected with Socket[addr=/127.0.0.1,port=65120,localport=1234]
+янв. 16, 2023 7:47:52 PM view.Server$ServerThread run
+INFO: <13> - (Receive Request) - <Share File>
+янв. 16, 2023 7:47:58 PM view.Server open
+INFO: Connected with Socket[addr=/127.0.0.1,port=65123,localport=1234]
+янв. 16, 2023 7:47:58 PM view.Server$ServerThread run
+INFO: <5> - (Receive Request) - <Get All File Path From Server to Client Tree View>
+янв. 16, 2023 7:48:03 PM view.Server open
+INFO: Connected with Socket[addr=/127.0.0.1,port=65126,localport=1234]
+янв. 16, 2023 7:48:03 PM view.Server$ServerThread run
+INFO: <12> - (Receive Request) - <Admin Get All User (Select share)>
+янв. 16, 2023 7:48:06 PM view.Server open
+INFO: Connected with Socket[addr=/127.0.0.1,port=65129,localport=1234]
+янв. 16, 2023 7:48:06 PM view.Server$ServerThread run
+INFO: <13> - (Receive Request) - <Share File>
+янв. 16, 2023 7:48:08 PM view.Server open
+INFO: Connected with Socket[addr=/127.0.0.1,port=65132,localport=1234]
+янв. 16, 2023 7:48:08 PM view.Server$ServerThread run
+INFO: <5> - (Receive Request) - <Get All File Path From Server to Client Tree View>
+янв. 16, 2023 7:48:10 PM view.Server open
+INFO: Connected with Socket[addr=/127.0.0.1,port=65135,localport=1234]
+янв. 16, 2023 7:48:11 PM view.Server$ServerThread run
+INFO: <5> - (Receive Request) - <Get All File Path From Server to Client Tree View>
